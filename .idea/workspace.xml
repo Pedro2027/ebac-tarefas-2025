@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d726e4f-90a3-4997-b8ac-0e1631325a83" name="Changes" comment="" />
+    <list default="true" id="3d726e4f-90a3-4997-b8ac-0e1631325a83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/NovoProjeto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/ItemVenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/PrimeiraClasse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Venda.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mod07" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
@@ -56,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740618366310</updated>
-      <workItem from="1740618367473" duration="789000" />
+      <workItem from="1740618367473" duration="1496000" />
     </task>
     <servers />
   </component>
