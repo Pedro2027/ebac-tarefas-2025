@@ -4,32 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d726e4f-90a3-4997-b8ac-0e1631325a83" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/NovoProjeto.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/ItemVenda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/PrimeiraClasse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mod06/ExemplosMod07/src/Venda.java" beforeDir="false" />
-    </list>
+    <list default="true" id="3d726e4f-90a3-4997-b8ac-0e1631325a83" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Mod07" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2tbQbMHLkEnGfP37Ig2WTgejeMa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,14 +24,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/thain/IdeaProjects/tarefas-ebac-2025",
+    "last_opened_file_path": "C:/Users/thain/IdeaProjects/ebac-tarefas-2025",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -71,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740618366310</updated>
       <workItem from="1740618367473" duration="1496000" />
+      <workItem from="1740621463982" duration="323000" />
     </task>
     <servers />
   </component>
